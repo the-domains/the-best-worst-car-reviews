@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: The Best Worst Car Reviews
 favicon: null
+name: The Best Worst Car Reviews
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.68093
-layout_spectrum: 0.2252373166847974
+layout_spectrum: 0
