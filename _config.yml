@@ -1,29 +1,41 @@
-name: The Best Worst Car Reviews
-favicon: null
-layout_spectrum: 0.2252373166847974
-typography_spectrum: 0.68093
 title: The Best Worst Car Reviews
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7999067
+  brandStrength: 1
+  lightness: 0.8041045
   brandColors:
     - '#000000'
     - '#000000'
     - '#000000'
     - '#000000'
     - '#000000'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: The Best Worst Car Reviews
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.68093
+layout_spectrum: 0.2252373166847974
