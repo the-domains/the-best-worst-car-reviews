@@ -1,5 +1,31 @@
-title: The Best Worst Car Reviews
-purpose: []
+typography_spectrum: 0.5579472554381937
+color:
+  saturation: 0.10805720859207213
+  brandStrength: 0.8170359125360847
+  lightness: 0.2379454094916582
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.16162154381163418
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7331993717234582
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: The Best Worst Car Reviews
+cta:
+  bucket: null
+  version: null
+  domain: null
+style: taylor
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +38,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.10805720859207213
-  brandStrength: 0.8170359125360847
-  lightness: 0.2379454094916582
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.16162154381163418
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: The Best Worst Car Reviews
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5579472554381937
-layout_spectrum: 0.7331993717234582
+title: The Best Worst Car Reviews
+description: The Best cars with the Worst host!
+purpose: []
