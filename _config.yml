@@ -24,20 +24,7 @@ cta:
   bucket: null
   version: null
   domain: null
-style: taylor
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 title: The Best Worst Car Reviews
 description: The Best cars with the Worst host!
 purpose: []
