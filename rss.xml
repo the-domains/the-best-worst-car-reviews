@@ -4,8 +4,15 @@
         <description><![CDATA[The Best Worst Car Reviews]]></description>
         <link>https://thegrid.ai/the-best-worst-car-reviews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 16:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 16:20:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-best-worst-car-reviews/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Best Worst Car Reviews - Mazda CX-3]]></title>
+            <description><![CDATA[<article><h1>The Best Worst Car Reviews - Mazda CX-3</h1><p>Welcome to another thrilling episode of "The Best Worst Car Reviews"! Today we get behind the wheel of the new cute little CX-3 from Mazda. It is basically a squished CX-5, but sure to be a huge hit!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3df4e1aa0773439c23bd3eda7b5bb74/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F558219087_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/157043770</link>
+            <guid isPermaLink="false">eab6bbc8-5721-4139-8634-2f4007e33ee6</guid>
+            <pubDate>Sun, 28 Aug 2016 16:20:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Best Worst Car Reviews - Jaguar F-Type]]></title>
             <description><![CDATA[<article><h1>The Best Worst Car Reviews - Jaguar F-Type</h1><p>Welcome to the first episode of 'The Best Worst Car Reviews'. Why that name? Well I realized how challenging it is the properly review a car, and be good at it. I figured the production quality is decent - hence the "Best" in the title; and I am the "Worst", so put it together and you have the title!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d806e432eb0529a7878578f3e19d5f40/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F556022443_1920x1080.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://vimeo.com/166146933</link>
             <guid isPermaLink="false">717d68ee-8fca-4603-bb69-06f0175ccc55</guid>
             <pubDate>Sun, 28 Aug 2016 15:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Worst Car Reviews - Mazda CX-3]]></title>
-            <description><![CDATA[<article><h1>The Best Worst Car Reviews - Mazda CX-3</h1><p>Welcome to another thrilling episode of "The Best Worst Car Reviews"! Today we get behind the wheel of the new cute little CX-3 from Mazda. It is basically a squished CX-5, but sure to be a huge hit!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3df4e1aa0773439c23bd3eda7b5bb74/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F558219087_1920x1080.jpg"></article>]]></description>
-            <link>https://vimeo.com/157043770</link>
-            <guid isPermaLink="false">eab6bbc8-5721-4139-8634-2f4007e33ee6</guid>
-            <pubDate>Sun, 28 Aug 2016 15:50:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
